@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aorise</groupId>
+  <artifactId>android-common</artifactId>
+  <versioning>
+    <release>1.0.30</release>
+    <versions>
+      <version>1.0.5-SNAPSHOT</version>
+      <version>1.0.6-SNAPSHOT</version>
+      <version>1.0.7-SNAPSHOT</version>
+      <version>1.0.8-SNAPSHOT</version>
+      <version>1.0.9-SNAPSHOT</version>
+      <version>1.0.10-SNAPSHOT</version>
+      <version>1.0.11-SNAPSHOT</version>
+      <version>1.0.12-SNAPSHOT</version>
+      <version>1.0.13-SNAPSHOT</version>
+      <version>1.0.14-SNAPSHOT</version>
+      <version>1.0.15-SNAPSHOT</version>
+      <version>1.0.16-SNAPSHOT</version>
+      <version>1.0.17-SNAPSHOT</version>
+      <version>1.0.18-SNAPSHOT</version>
+      <version>1.0.19-SNAPSHOT</version>
+      <version>1.0.20-SNAPSHOT</version>
+      <version>1.0.21-SNAPSHOT</version>
+      <version>1.0.22-SNAPSHOT</version>
+      <version>1.0.23</version>
+      <version>1.0.24</version>
+      <version>1.0.25</version>
+      <version>1.0.26</version>
+      <version>1.0.27</version>
+      <version>1.0.28</version>
+      <version>1.0.29</version>
+      <version>1.0.30</version>
+      <version>1.0.31-SNAPSHOT</version>
+      <version>1.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180119043641</lastUpdated>
+  </versioning>
+</metadata>

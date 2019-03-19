@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aorise</groupId>
+  <artifactId>android-common</artifactId>
+  <version>1.0.22-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170926.060910</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170926060910</lastUpdated>
+  </versioning>
+</metadata>
