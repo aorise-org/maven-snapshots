@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aorise</groupId>
+  <artifactId>android-webrtc</artifactId>
+  <version>1.0.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180824.014801</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180824014801</lastUpdated>
+  </versioning>
+</metadata>

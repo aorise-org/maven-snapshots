@@ -26,18 +26,13 @@
 - 统一列表下拉刷新、上拉加载更多的处理
 - 统一的登录组件
 
-详细介绍请看接口文档 [Javadoc文档地址](https://aorise-org.github.io/maven-snapshots/android-common/)
-
 
 - 项目根目录`build.gradle`配置（替换最新版本号）    
 ```gradle
 dependencies {
-    compile 'cn.aorise:android-common:1.0.5-SNAPSHOT'
+    compile 'cn.aorise:android-common:1.3.3-SNAPSHOT'
 }
 ```
-
-### 样例工程
-- [android-sample](https://github.com/aorise-org/android-sample)
 
 ## Android 视频库
 
@@ -52,9 +47,6 @@ dependencies {
 - 项目根目录`build.gradle`配置（替换最新版本号）    
 ```gradle
 dependencies {
-    compile 'cn.aorise:android-webrtc:0.0.1-SNAPSHOT'
+    compile 'cn.aorise:android-webrtc:1.2.9-SNAPSHOT'
 }
 ```
-
-### 样例工程
-- [android-sample](https://github.com/aorise-org/android-sample)

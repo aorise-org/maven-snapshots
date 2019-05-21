@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aorise</groupId>
+  <artifactId>android-aop-plugin</artifactId>
+  <version>1.3.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190315.062212</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190315062212</lastUpdated>
+  </versioning>
+</metadata>
