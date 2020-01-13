@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.aorise</groupId>
+  <artifactId>android-base-video</artifactId>
+  <version>1.2.18-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20191121.010207</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20191121010207</lastUpdated>
+  </versioning>
+</metadata>
